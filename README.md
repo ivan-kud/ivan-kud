@@ -1,4 +1,13 @@
-### Hi there 👋
+### About me
+
+Flexibility of thinking and the ability to adapt to the requirements of the rapidly changing world of technology are one of the key skills of a modern person.
+
+I am used to achieve high results in the areas of interest to me (physics, electronics). Now I am mastering the field of Data Science, as I consider it the most promising and in demand. In addition, a specialist in this field is not strictly tied to a specific location. And most importantly - it is also incredibly interesting! Definitely, DS is what I need!
+
+Took a number of courses in ML and Python.
+I listen to lectures from: K.V. Vorontsov, E.A. Sokolov, E.V. Razinkov, R.G. Neichev.
+
+I play beach volleyball and run.
 
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
