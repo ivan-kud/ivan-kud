@@ -9,6 +9,13 @@ I listen to lectures from: K.V. Vorontsov, E.A. Sokolov, E.V. Razinkov, R.G. Nei
 
 I play beach volleyball and run.
 
+### Experience
+
+* ML training projects and test tasks: 2020 – 2022
+  - service for instance segmentation of people in a photo (MaskRCNN, FastAPI, GCP)
+  - hierarchical text classification into more than 1000 classes (tf-idf, fasttext, catboost)
+  - prediction of car prices based on data from the website auto.ru: car characteristics, description, photo (beautifulsoup, scikit-learn, keras)
+
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
