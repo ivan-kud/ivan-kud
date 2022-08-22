@@ -15,6 +15,36 @@ I play beach volleyball and run.
   - service for instance segmentation of people in a photo (MaskRCNN, FastAPI, GCP)
   - hierarchical text classification into more than 1000 classes (tf-idf, fasttext, catboost)
   - prediction of car prices based on data from the website auto.ru: car characteristics, description, photo (beautifulsoup, scikit-learn, keras)
+* Dukhov Automatics Research Institute, Research Engineer: 2019 – 2022
+  - digital signal processing for electronic digitizers
+* Joint Institute for Nuclear Research, Leading Engineer: 2010 – 2018
+  - conducting physical experiments
+  - collecting, processing and analyzing of data
+  - writing research articles ([my publications on ResearchGate](https://www.researchgate.net/profile/Ivan_Kudashkin))
+
+### Skills
+
+* Programming languages: Python, SQL, MatLab, C, Assembler
+* Python libraries: numpy, pandas, matplotlib, scikit-learn, catboost, keras, pytorch, fasttext, beautifulsoup
+* Basics of C++, Git, Bash, Docker, Flask, FastAPI, AWS, GCP
+* Basics of data engineering: Hadoop, Hive, Spark, Airflow
+* Mathematics: calculus, digital signal processing, basics of statistics and linear algebra
+* Writing scientific articles, Jira, Confluence
+* English: intermediate
+
+### Education
+
+* PhD – Joint Institute for Nuclear Research, Dubna, Russia: 2016
+* Master's equivalent degree – MIREA, Moscow, Russia (physicist; GPA: 4.7 out of 5): 2004 – 2010
+
+### Certification
+
+* Coursera - Python for data analysis: 2022
+* Coursera - OOP and design patterns in Python: 2022
+* Coursera - Diving into Python: 2022
+* SkillFactory - Data Science: 2020 – 2021
+* Coursera - Machine Learning: 2020
+* 365 DataScience - SQL: 2020
 
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
