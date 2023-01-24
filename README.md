@@ -12,7 +12,7 @@ I play beach volleyball and run.
 ### Experience
 
 * ML training projects and test tasks: 2020 – 2023
-  - [Service](http://mlservice.ivankud.com/) where you can apply machine learning models to solve some problems (Backend: FastAPI; Frontend: HTML, CSS, JavaScript; Cloud service: DigitalOcean)
+  - [Service](http://ivankud.com/) where you can apply machine learning models to solve some problems (Backend: FastAPI; Frontend: HTML, CSS, JavaScript; Cloud service: DigitalOcean)
   - hierarchical text classification into more than 1000 classes (tf-idf, fasttext, catboost)
   - prediction of car prices based on data from the website auto.ru: car characteristics, description, photo (beautifulsoup, scikit-learn, keras)
 * Dukhov Automatics Research Institute, Research Engineer: 2019 – 2022
