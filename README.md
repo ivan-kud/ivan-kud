@@ -25,8 +25,8 @@ I play beach volleyball and run.
 ### Skills
 
 * Programming languages: Python, SQL, MatLab, C, Assembler
-* Python libraries: numpy, pandas, matplotlib, scikit-learn, catboost, keras, pytorch, fasttext, beautifulsoup
-* Basics of C++, Git, Bash, Docker, Flask, FastAPI, AWS, GCP
+* Python libraries: numpy, pandas, matplotlib, scikit-learn, catboost, pytorch, keras, fasttext, beautifulsoup
+* Docker, FastAPI, GCP
 * Basics of data engineering: Hadoop, Hive, Spark, Airflow
 * Mathematics: calculus, digital signal processing, basics of statistics and linear algebra
 * Writing scientific articles, Jira, Confluence
