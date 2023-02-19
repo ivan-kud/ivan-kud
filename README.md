@@ -2,35 +2,42 @@
 
 Flexibility of thinking and the ability to adapt to the requirements of the rapidly changing world of technology are one of the key skills of a modern person.
 
-I am used to achieve high results in the areas of interest to me (physics, electronics). Now I am mastering the field of Data Science, as I consider it the most promising and in demand. In addition, a specialist in this field is not strictly tied to a specific location. And most importantly - it is also incredibly interesting! Definitely, DS is what I need!
+I am used to achieve high results in the areas of interest to me (physics, electronics). Now I am mastering the field of Data Science, as I consider it the most promising, in demand, well-paid and with the possibility of remote work. And most importantly - it is also incredibly interesting! Definitely, DS is what I need!
 
-Took a number of courses in ML and Python.
-I listen to lectures from: K.V. Vorontsov, E.A. Sokolov, E.V. Razinkov, R.G. Neichev.
+I took a number of courses in ML and Python.
+I listen to lectures of: K.V. Vorontsov, E.A. Sokolov, E.V. Razinkov, R.G. Neichev.
 
 I play beach volleyball and run.
 
 ### Experience
 
+* Pet project: [web service for applying ML models](https://ivankud.com) (in developing)
+  - Frontend: HTML, CSS, JavaScript
+  - Backend: FastAPI
+  - HTTPS: Traefik
+  - Containerization: Docker, Compose
+  - Cloud Service: DigitalOcean
 * ML training projects and test tasks: 2020 – 2023
-  - [Service](https://ivankud.com/) where you can apply machine learning models to solve some problems (backend: FastAPI; frontend: HTML, CSS, JavaScript; cloud service: DigitalOcean)
   - hierarchical text classification into more than 1000 classes (tf-idf, fasttext, catboost)
   - prediction of car prices based on data from the website auto.ru: car characteristics, description, photo (beautifulsoup, scikit-learn, keras)
 * Dukhov Automatics Research Institute, Research Engineer: 2019 – 2022
-  - digital signal processing for electronic digitizers
+  - development of a GUI application (x86) for calculating the characteristics of high-frequency electronic converters based on digital signal processing
+  - development of methods for measuring the characteristics of converters
+  - work with design and technological documentation
 * Joint Institute for Nuclear Research, Leading Engineer: 2010 – 2018
-  - conducting physical experiments
-  - collecting, processing and analyzing of data
-  - writing research articles ([my publications on ResearchGate](https://www.researchgate.net/profile/Ivan_Kudashkin))
+  - programming of microcontrollers (ARM, AVR) and development of GUI applications (x86) for them
+  - preparation and conduct of physical experiments
+  - collection, processing and analysis of data from experiments
+  - speaking at conferences and writing scientific articles based on the results ([my publications on ResearchGate](https://www.researchgate.net/profile/Ivan_Kudashkin))
 
 ### Skills
 
-* Programming languages: Python, SQL, MatLab, C, Assembler
-* Python libraries: numpy, pandas, matplotlib, scikit-learn, catboost, pytorch, keras, fasttext, beautifulsoup
-* Docker, FastAPI, GCP
-* Basics of data engineering: Hadoop, Hive, Spark, Airflow
-* Mathematics: calculus, digital signal processing, basics of statistics and linear algebra
+* Programming languages: Python, C, Assembler, MatLab, G (LabVIEW)
+* Python libraries: numpy, pandas, matplotlib, scikit-learn, pytorch, keras, catboost, fasttext, beautifulsoup, FastAPI
+* Calculus, statistics, linear algebra, digital signal processing
+* Basics of Docker, Compose, SQL, Hadoop, Hive, Spark, Airflow, Linux, Git, Bash, C++, HTML, CSS, JavaScript
 * Writing scientific articles, Jira, Confluence
-* English: intermediate
+* English: intermediate (speaking at conferences)
 
 ### Education
 
