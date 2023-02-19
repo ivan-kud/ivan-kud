@@ -44,7 +44,7 @@ I play beach volleyball and run.
 * PhD – Joint Institute for Nuclear Research, Dubna, Russia: 2016
 * Master's equivalent degree – MIREA, Moscow, Russia (physicist; GPA: 4.7 out of 5): 2004 – 2010
 
-### Certification
+### Certificates
 
 * Coursera - Python for data analysis: 2022
 * Coursera - OOP and design patterns in Python: 2022
