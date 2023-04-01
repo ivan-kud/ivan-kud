@@ -11,7 +11,7 @@ I play beach volleyball and run.
 
 ### Experience
 
-* Pet project: [web service for applying ML models](https://ivankud.com) (in developing)
+* Pet project: [web service for applying ML models](https://ivankud.com)
   - Frontend: HTML, CSS, JavaScript
   - Backend: FastAPI
   - HTTPS: Traefik
@@ -33,7 +33,7 @@ I play beach volleyball and run.
 ### Skills
 
 * Programming languages: Python, C, Assembler, MatLab, G (LabVIEW)
-* Python libraries: numpy, pandas, matplotlib, scikit-learn, pytorch, keras, catboost, fasttext, beautifulsoup, FastAPI
+* Python libraries: numpy, pandas, matplotlib, scikit-learn, OpenCV, PyTorch, Keras, catboost, fasttext, beautifulsoup, FastAPI
 * Calculus, statistics, linear algebra, digital signal processing
 * Basics of Docker, Compose, SQL, Hadoop, Hive, Spark, Airflow, Linux, Git, Bash, C++, HTML, CSS, JavaScript
 * Writing scientific articles, Jira, Confluence
