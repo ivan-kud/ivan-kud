@@ -11,16 +11,17 @@ I play beach volleyball and run.
 
 ### Experience
 
-* Pet project: [web service for applying ML models](https://ivankud.com)
+* Pet project: [web service for applying ML models](https://ivankud.com): 2023
   - Frontend: HTML, CSS, JavaScript
   - Backend: FastAPI
   - HTTPS: Traefik
   - Containerization: Docker, Compose
   - Cloud Service: DigitalOcean
 * ML training projects and test tasks: 2020 – 2023
-  - hierarchical text classification into more than 1000 classes (tf-idf, fasttext, catboost)
-  - prediction of car prices based on data from the website auto.ru: car characteristics, description, photo (beautifulsoup, scikit-learn, keras)
-* Dukhov Automatics Research Institute, Research Engineer: 2019 – 2022
+  - hierarchical text classification into more than 1000 classes (tf-idf, fastText, CatBoost)
+  - prediction of car prices based on data from the website auto.ru: car characteristics, description, photo (beautifulsoup, scikit-learn, Keras)
+  - and others
+* Dukhov Automatics Research Institute, Research Engineer: 2018 – 2022
   - development of a GUI application (x86) for calculating the characteristics of high-frequency electronic converters based on digital signal processing
   - development of methods for measuring the characteristics of converters
   - work with design and technological documentation
@@ -33,7 +34,7 @@ I play beach volleyball and run.
 ### Skills
 
 * Programming languages: Python, C, Assembler, MatLab, G (LabVIEW)
-* Python libraries: numpy, pandas, matplotlib, scikit-learn, OpenCV, PyTorch, Keras, catboost, fasttext, beautifulsoup, FastAPI
+* Python libraries: numpy, pandas, matplotlib, scikit-learn, OpenCV, PyTorch, Keras, CatBoost, fastText, beautifulsoup, FastAPI
 * Calculus, statistics, linear algebra, digital signal processing
 * Basics of Docker, Compose, SQL, Hadoop, Hive, Spark, Airflow, Linux, Git, Bash, C++, HTML, CSS, JavaScript
 * Writing scientific articles, Jira, Confluence
