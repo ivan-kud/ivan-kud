@@ -5,38 +5,42 @@ Flexibility of thinking and the ability to adapt to the requirements of the rapi
 I am used to achieve high results in the areas of interest to me (physics, electronics). Now I am mastering the field of Data Science, as I consider it the most promising, in demand, well-paid and with the possibility of remote work. And most importantly - it is also incredibly interesting! Definitely, DS is what I need!
 
 I took a number of courses in ML and Python.
-I listen to lectures of: K.V. Vorontsov, E.A. Sokolov, E.V. Razinkov, R.G. Neichev.
+I listen to lectures of: K.V. Vorontsov, E.A. Sokolov, R.G. Neichev, E.V. Razinkov.
 
 I play beach volleyball and run.
 
 ### Experience
 
 * Pet project: [web service for applying ML models](https://ivankud.com): 2023
-  - Frontend: HTML, CSS, JavaScript
-  - Backend: FastAPI
-  - HTTPS: Traefik
+  - Problems: instance segmentation, sentiment classification, classification of handwritten digits
+  - Models: Dense and Convolutional networks, pretrained Mask R-CNN and RoBERTa
+  - Libraries: PyTorch, OpenCV, Transformers
+  - Cloud provider: DigitalOcean (GCP was used before)
   - Containerization: Docker, Compose
-  - Cloud Service: DigitalOcean
+  - Backend: FastAPI
+  - Frontend: HTML, CSS, JavaScript
+  - HTTPS: Traefik
 * ML training projects and test tasks: 2020 – 2023
-  - hierarchical text classification into more than 1000 classes (tf-idf, fastText, CatBoost)
-  - prediction of car prices based on data from the website auto.ru: car characteristics, description, photo (beautifulsoup, scikit-learn, Keras)
-  - and others
+  - Hierarchical text classification into more than 1000 classes. Models: random forest with LCN and LCPN approaches. Libraries: pymorphy2, scikit-learn, hiclass, networkx
+  - Text classification with a limit on the model size and inference time. Containerization: Docker. Models: TF-IDF, fastText, catboost. Libraries: pymorphy2, scikit-learn, fastText, catboost
+  - Car price prediction according to data from the site auto.ru. Dataset was parsed from the site (price, characteristics, equipment, photo, text description). Models: multi-input NN (tabular+CV+NLP). Libraries: beautifulsoup, scikit-learn, Keras
+  - And other tasks using regressions, trees, boosting, transfer learning, fine tuning, stacking, feature generation, feature significance analysis, dimensionality reduction, overfitting protection (regularization, cross-validation, data augmentation, model complexity reduction). Working with unbalanced samples, outliers, gaps, duplicates, dirty data (format mismatch, dimensions, garbage)
 * Dukhov Automatics Research Institute, Research Engineer: 2018 – 2022
-  - development of a GUI application (x86) for calculating the characteristics of high-frequency electronic converters based on digital signal processing
-  - development of methods for measuring the characteristics of converters
-  - work with design and technological documentation
+  - Development of methods for measuring the characteristics of high-frequency electronic converters based on digital signal processing
+  - Development of a GUI application (x86) for calculating the characteristics of converters
+  - Work with design and technological documentation
 * Joint Institute for Nuclear Research, Leading Engineer: 2010 – 2018
-  - programming of microcontrollers (ARM, AVR) and development of GUI applications (x86) for them
-  - preparation and conduct of physical experiments
+  - preparation and conduction of physical experiments
   - collection, processing and analysis of data from experiments
-  - speaking at conferences and writing scientific articles based on the results ([my publications on ResearchGate](https://www.researchgate.net/profile/Ivan_Kudashkin))
+  - speaking at conferences and writing [scientific articles](https://www.researchgate.net/profile/Ivan_Kudashkin) based on the results
+  - programming of microcontrollers (ARM, AVR) and development of GUI applications (x86) for them
 
 ### Skills
 
 * Programming languages: Python, C, Assembler, MatLab, G (LabVIEW)
-* Python libraries: numpy, pandas, matplotlib, scikit-learn, OpenCV, PyTorch, Keras, CatBoost, fastText, beautifulsoup, FastAPI
-* Calculus, statistics, linear algebra, digital signal processing
-* Basics of Docker, Compose, SQL, Hadoop, Hive, Spark, Airflow, Linux, Git, Bash, C++, HTML, CSS, JavaScript
+* Python libraries: numpy, pandas, matplotlib, scikit-learn, OpenCV, PyTorch, Keras, catboost, fastText, beautifulsoup, FastAPI
+* Calculus, statistics, digital signal processing
+* Basics of Docker, Compose, SQL, Hadoop, Airflow, Linux, Git, Bash, C++, HTML, CSS, JavaScript
 * Writing scientific articles, Jira, Confluence
 * English: intermediate (speaking at conferences)
 
