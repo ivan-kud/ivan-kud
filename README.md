@@ -9,7 +9,7 @@ I listen to lectures of: K.V. Vorontsov, E.A. Sokolov, R.G. Neichev, E.V. Razink
 
 I play beach volleyball and run.
 
-### Experience
+### ML Experience
 
 * Pet project: [web service for applying ML models](https://ivankud.com): 2023
   - Problems: instance segmentation, sentiment classification, classification of handwritten digits
@@ -25,38 +25,6 @@ I play beach volleyball and run.
   - Text classification with a limit on the model size and inference time. Containerization: Docker. Models: TF-IDF, fastText, catboost. Libraries: pymorphy2, scikit-learn, fastText, catboost
   - Car price prediction according to data from the site auto.ru. Dataset was parsed from the site (price, characteristics, equipment, photo, text description). Models: multi-input NN (tabular+CV+NLP). Libraries: beautifulsoup, scikit-learn, Keras
   - And other tasks using regressions, trees, boosting, transfer learning, fine tuning, stacking, feature generation, feature significance analysis, dimensionality reduction, overfitting protection (regularization, cross-validation, data augmentation, model complexity reduction). Working with unbalanced samples, outliers, gaps, duplicates, dirty data (format mismatch, dimensions, garbage)
-* Dukhov Automatics Research Institute, Research Engineer: 2018 – 2022
-  - Development of methods for measuring the characteristics of high-frequency electronic converters based on digital signal processing
-  - Development of a GUI application (x86) for calculating the characteristics of converters
-  - Work with design and technological documentation
-* Joint Institute for Nuclear Research, Leading Engineer: 2010 – 2018
-  - preparation and conduction of physical experiments
-  - collection, processing and analysis of data from experiments
-  - speaking at conferences and writing [scientific articles](https://www.researchgate.net/profile/Ivan_Kudashkin) based on the results
-  - programming of microcontrollers (ARM, AVR) and development of GUI applications (x86) for them
-
-### Skills
-
-* Programming languages: Python, C, Assembler, MatLab, G (LabVIEW)
-* Python libraries: numpy, pandas, matplotlib, scikit-learn, OpenCV, PyTorch, Keras, catboost, fastText, beautifulsoup, FastAPI
-* Calculus, statistics, digital signal processing
-* Basics of Docker, Compose, SQL, Hadoop, Airflow, Linux, Git, Bash, C++, HTML, CSS, JavaScript
-* Writing scientific articles, Jira, Confluence
-* English: intermediate (speaking at conferences)
-
-### Education
-
-* PhD – Joint Institute for Nuclear Research, Dubna, Russia: 2016
-* Master's equivalent degree – MIREA, Moscow, Russia (physicist; GPA: 4.7 out of 5): 2004 – 2010
-
-### Certificates
-
-* Coursera - Python for data analysis: 2022
-* Coursera - OOP and design patterns in Python: 2022
-* Coursera - Diving into Python: 2022
-* SkillFactory - Data Science: 2020 – 2021
-* Coursera - Machine Learning: 2020
-* 365 DataScience - SQL: 2020
 
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
