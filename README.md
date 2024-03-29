@@ -2,15 +2,15 @@
 
 Flexibility of thinking and the ability to adapt to the requirements of the rapidly changing world of technology are the key skills of a modern person.
 
-I am used to achieve high results in the areas of interest to me (physics, electronics). Now I am mastering the field of Data Science, as I consider it the most promising, in demand, well-paid and with the possibility of remote work. And most importantly - it is also incredibly interesting! Definitely, DS is what I need!
+I am used to achieving high results in the areas that interest me: PhD in physics; Extensive experience in electronics and machine learning.
 
-I play beach volleyball and train in the gym.
+I play beach volleyball and work out in the gym.
 
 ### ML Experience
 
-* Since October 2023 I have been working as an NLP engineer. I train AI assistants in new skills and implement this in the form of services.
+* Since October 2023 I have been working as an NLP engineer. I train AI assistants in new skills, develop a method for detection of LLM hallucinations and research optimization algorithms for LLM pre-training.
 
-* Stack: Python, LangChain, Hugging Face, OpenAI, Docker, FastAPI, Streamlit.
+* Stack: Python, NLP, Docker, FastAPI, Streamlit.
 
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
