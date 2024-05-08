@@ -8,9 +8,11 @@ I play beach volleyball and work out in the gym.
 
 ### ML Experience
 
-* Since October 2023 I have been working as an NLP engineer. I train AI assistants in new skills, develop a method for detection of LLM hallucinations and research optimization algorithms for LLM pre-training.
+* Since October 2023 I have been working as an NLP engineer.
 
-* Stack: Python, NLP, Docker, FastAPI, Streamlit.
+* Base Stack: Python, NLP, Docker, FastAPI, Streamlit.
+
+* NLP Stack: HuggingFace, Langchain, LM pre-training, AI assistants, RAG, research.
 
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
