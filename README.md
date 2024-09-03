@@ -2,7 +2,7 @@
 
 Flexibility of thinking and the ability to adapt to the requirements of the rapidly changing world of technology are the key skills of a modern person.
 
-I am used to achieving high results in the areas that interest me: PhD in physics; Extensive experience in electronics and machine learning.
+I am used to achieving high results in the areas that interest me: extensive experience in machine learning and electronics; PhD in physics.
 
 I play beach volleyball and work out in the gym.
 
