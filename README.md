@@ -10,9 +10,9 @@ I play beach volleyball and work out in the gym.
 
 * Since October 2023 I have been working as an NLP engineer.
 
-* Base Stack: Python, NLP, Docker, FastAPI, Streamlit.
+* Skills: LM pre-training, inference optimization, hallucination detection, AI assistants, RAG, research.
 
-* NLP Stack: HuggingFace, Langchain, LM pre-training, AI assistants, RAG, research.
+* Stack: PyTorch, HuggingFace, Langchain, Docker, FastAPI, Streamlit.
 
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
