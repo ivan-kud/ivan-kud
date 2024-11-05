@@ -8,8 +8,7 @@ I play beach volleyball and work out in the gym.
 
 ### ML Experience
 
-* Since October 2023 I have been working as an NLP engineer.
-
+- Since October 2023 I have been working as an NLP engineer.
 - Skills: LM pre-training, inference optimization, hallucination detection, multimodality, research, RAG based AI assistants.
 - Stack: PyTorch, HuggingFace, LangChain, Docker, FastAPI, Streamlit.
 
