@@ -6,12 +6,6 @@ I am used to achieving high results in the areas that interest me: extensive exp
 
 I play beach volleyball and work out in the gym.
 
-### ML Experience
-
-- Since October 2023 I have been working as an NLP engineer.
-- Skills: LM pre-training, inference optimization, hallucination detection, multimodality, research, RAG based AI assistants.
-- Stack: PyTorch, HuggingFace, LangChain, Docker, FastAPI, Streamlit.
-
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
