@@ -4,8 +4,6 @@ Flexibility of thinking and the ability to adapt to the requirements of the rapi
 
 I am used to achieving high results in the areas that interest me: extensive experience in machine learning and electronics; PhD in physics.
 
-I play beach volleyball and work out in the gym.
-
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
