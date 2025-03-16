@@ -1,8 +1,6 @@
 ### About me
 
-Flexibility of thinking and the ability to adapt to the requirements of the rapidly changing world of technology are the key skills of a modern person.
-
-I am used to achieving high results in the areas that interest me: extensive experience in machine learning and electronics; PhD in physics.
+Machine learning engineer with deep understanding of natural language processing. I have extensive experience working on projects with tight deadlines.
 
 <!--
 **ivan-kud/ivan-kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
